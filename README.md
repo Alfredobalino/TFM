@@ -15,8 +15,5 @@ Alfredo Baliño Usher
 
 -----------------
 
-1 - Abrir el notebook y seguir las instrucciones
-
-2.1 - Abrir el notebook con el codigo de R y si se desea copiar el codigo para ejecutarlo en R Studio
-
-2.2 - Abrir el Script de codigo de R y ejecutarlo en R Studio
+Prueba_Poligonos : Prueba tratando de poligonizar varios rings en folium (incluso unos contenido en otros).
+PasaAtributosDataframe : Paso de las bases de datos de atributos a Data Frame
